@@ -2,6 +2,13 @@
 Murphid Conky Theme but with Spotify dbus support
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
+### :lion: Requirements 
+- Playerctl
+- For Fedora ```dnf install playerctl```
+- Other Distros https://github.com/altdesktop/playerctl
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### :lion: Murphid theme
 ![](https://github.com/closebox73/Leonis/raw/master/Asset/Murphid.jpg)
 - Download the original theme at Pling.com [Here](https://www.pling.com/p/1843842/)
